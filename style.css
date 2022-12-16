@@ -1,0 +1,32 @@
+h1.titulo{
+    text-align: center;
+    background-color: rgb(255, 254, 223);
+}
+
+p.menu{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+article.articulo{
+    background-color: orange;
+}
+
+p.final{
+    background-color: blue;
+    text-align: center;
+}
+
+span.final2{
+    background-color: yellow;
+    text-align: center;
+    color: purple;
+}
+
+iframe.video{
+    height: 450px;
+}
+
+p.museo{
+    
+}
